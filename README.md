@@ -1,2 +1,2 @@
 # autopromptuac
-run the executibale without clicking run as administrator
+download the file then run the executibale without clicking run as administrator
